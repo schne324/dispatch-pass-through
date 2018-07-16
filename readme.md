@@ -1,4 +1,5 @@
 [![CircleCI](https://circleci.com/gh/schne324/dispatch-pass-through.svg?style=svg)](https://circleci.com/gh/schne324/dispatch-pass-through)
+[![Coverage Status](https://coveralls.io/repos/github/schne324/dispatch-pass-through/badge.svg?branch=master)](https://coveralls.io/github/schne324/dispatch-pass-through?branch=master)
 
 # Dispatch pass-through
 
