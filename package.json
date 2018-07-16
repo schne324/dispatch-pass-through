@@ -15,7 +15,8 @@
     "pretty-quick": "^1.6.0"
   },
   "scripts": {
-    "test": "nyc ava"
+    "test": "nyc ava",
+    "precommit": "pretty-quick --staged"
   },
   "nyc": {
     "checkCoverage": true,
