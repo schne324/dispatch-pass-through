@@ -1,6 +1,6 @@
 {
   "name": "dispatch-pass-through",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tiny utility for passing arguments through in a react-redux mapDispatchToProps call",
   "main": "index.js",
   "repository": "https://github.com/schne324/dispatch-pass-through.git",
