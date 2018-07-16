@@ -1,4 +1,4 @@
-"use strict";
+'use strict';
 
 const passThrough = (dispatch, action) => (...args) =>
   dispatch(action(...args));
