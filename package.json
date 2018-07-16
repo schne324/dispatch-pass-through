@@ -12,7 +12,8 @@
     "husky": "^0.14.3",
     "nyc": "^12.0.2",
     "prettier": "^1.13.7",
-    "pretty-quick": "^1.6.0"
+    "pretty-quick": "^1.6.0",
+    "standard-version": "^4.4.0"
   },
   "scripts": {
     "test": "nyc ava",
