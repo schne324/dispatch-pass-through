@@ -17,7 +17,8 @@
   },
   "scripts": {
     "test": "nyc ava",
-    "precommit": "pretty-quick --staged"
+    "precommit": "pretty-quick --staged",
+    "release": "standard-version"
   },
   "nyc": {
     "checkCoverage": true,
