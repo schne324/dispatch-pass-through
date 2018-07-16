@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/schne324/dispatch-pass-through.svg?style=svg)](https://circleci.com/gh/schne324/dispatch-pass-through)
+
 # Dispatch pass-through
 
 > 1 line utility mostly useful for react-redux. Specifically for `mapDispatchToProps`, which passes all arguments passed to a dispatch-wrapped action prop through to the action itself.
