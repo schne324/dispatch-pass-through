@@ -9,8 +9,10 @@
   "private": false,
   "devDependencies": {
     "ava": "^0.25.0",
+    "husky": "^0.14.3",
     "nyc": "^12.0.2",
-    "prettier": "^1.13.7"
+    "prettier": "^1.13.7",
+    "pretty-quick": "^1.6.0"
   },
   "scripts": {
     "test": "nyc ava"
@@ -29,5 +31,10 @@
       "coverage",
       "test/**/*.js"
     ]
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "pretty-quick --staged"
+    }
   }
 }

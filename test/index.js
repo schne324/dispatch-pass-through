@@ -1,7 +1,7 @@
 'use strict';
 
 const test = require('ava');
-const passThough = require('..');
+const passThough = require('..')
 
 test('passes args through', t => {
   let argA, argB, argC;
